@@ -7,8 +7,8 @@ Por questões de etica o projeto foi colocado no github sem a base de dados.
 # Código.m
 Este arquivo é referente ao código desenvolvido no Octave para tratamento da base de dados e transformação do arquivo em .ARFF para porterior desenvolvimento da rede neural a partir do software open source WEKA 3.
 
-#SMO.arff
+# SMO.arff
 Arquivo com todas as configurações de parâmetros do algoritmo de Sequential minimal optimization utilizado no projeto, assim como todas os resultados obtidos para cada configuração.
 
-#arvores.arff
+# arvores.arff
 Arquivo com todas as configurações de parâmetros do algoritmos de arvore de decição utilizados no projeto, assim como todas os resultados obtidos para cada configuração.
